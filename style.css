@@ -2,14 +2,14 @@ body
 {
     margin: 0;
     padding: 0;
-    background: url(bg.jpg);
+    background: url(Images/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 
 }
 .rain{
     height: 100vh;
-    background: url(rain1.png);
+    background: url(Images/rain1.png);
 }
 .rain:before{
     content: '';
